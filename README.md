@@ -20,9 +20,9 @@ Here is a a prototype API using a microservices architecture to support various 
 
 ## Example
 
-![example](./Images/Create_player.png)
-![example](./Images/Get_player.png)
-![example](./Images/Update_player.png)
+![example](./Images/Create_Player.png)
+![example](./Images/Get_Player.png)
+![example](./Images/Update_Player.png)
 ![example](./Images/Get_Leaderboard.png)
 
 ## Steps to run
